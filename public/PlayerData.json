@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://example.com/images/player1.jpg",
+        "playerName": "Virat Kohli",
+        "country": "India",
+        "countryFlag": "https://example.com/flags/india.png",
+        "position": "Top Order Batsman",
+        "rating": 9.8,
+        "battingSide": "Right Hand",
+        "price": "$1.2M"
+    },
+    {
+        "id": 2,
+        "image": "https://example.com/images/player2.jpg",
+        "playerName": "Babar Azam",
+        "country": "Pakistan",
+        "countryFlag": "https://example.com/flags/pakistan.png",
+        "position": "Top Order Batsman",
+        "rating": 9.7,
+        "battingSide": "Right Hand",
+        "price": "$1.1M"
+    },
+    {
+        "id": 3,
+        "image": "https://example.com/images/player3.jpg",
+        "playerName": "Joe Root",
+        "country": "England",
+        "countryFlag": "https://example.com/flags/england.png",
+        "position": "Middle Order Batsman",
+        "rating": 9.5,
+        "battingSide": "Right Hand",
+        "price": "$1.0M"
+    },
+    {
+        "id": 4,
+        "image": "https://example.com/images/player4.jpg",
+        "playerName": "Kane Williamson",
+        "country": "New Zealand",
+        "countryFlag": "https://example.com/flags/newzealand.png",
+        "position": "Top Order Batsman",
+        "rating": 9.6,
+        "battingSide": "Right Hand",
+        "price": "$1.05M"
+    },
+    {
+        "id": 5,
+        "image": "https://example.com/images/player5.jpg",
+        "playerName": "Steve Smith",
+        "country": "Australia",
+        "countryFlag": "https://example.com/flags/australia.png",
+        "position": "Top Order Batsman",
+        "rating": 9.4,
+        "battingSide": "Right Hand",
+        "price": "$1.15M"
+    },
+    {
+        "id": 6,
+        "image": "https://example.com/images/player6.jpg",
+        "playerName": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "countryFlag": "https://example.com/flags/bangladesh.png",
+        "position": "All-Rounder",
+        "rating": 9.3,
+        "battingSide": "Left Hand",
+        "price": "$950K"
+    },
+    {
+        "id": 7,
+        "image": "https://example.com/images/player7.jpg",
+        "playerName": "Ben Stokes",
+        "country": "England",
+        "countryFlag": "https://example.com/flags/england.png",
+        "position": "All-Rounder",
+        "rating": 9.2,
+        "battingSide": "Left Hand",
+        "price": "$1.08M"
+    },
+    {
+        "id": 8,
+        "image": "https://example.com/images/player8.jpg",
+        "playerName": "David Warner",
+        "country": "Australia",
+        "countryFlag": "https://example.com/flags/australia.png",
+        "position": "Opening Batsman",
+        "rating": 9.1,
+        "battingSide": "Left Hand",
+        "price": "$1.0M"
+    },
+    {
+        "id": 9,
+        "image": "https://example.com/images/player9.jpg",
+        "playerName": "Rohit Sharma",
+        "country": "India",
+        "countryFlag": "https://example.com/flags/india.png",
+        "position": "Opening Batsman",
+        "rating": 9.6,
+        "battingSide": "Right Hand",
+        "price": "$1.2M"
+    },
+    {
+        "id": 10,
+        "image": "https://example.com/images/player10.jpg",
+        "playerName": "Jos Buttler",
+        "country": "England",
+        "countryFlag": "https://example.com/flags/england.png",
+        "position": "Wicket Keeper Batsman",
+        "rating": 9.0,
+        "battingSide": "Right Hand",
+        "price": "$980K"
+    },
+    {
+        "id": 11,
+        "image": "https://example.com/images/player11.jpg",
+        "playerName": "Trent Boult",
+        "country": "New Zealand",
+        "countryFlag": "https://example.com/flags/newzealand.png",
+        "position": "Bowler",
+        "rating": 8.9,
+        "battingSide": "Right Hand",
+        "price": "$870K"
+    },
+    {
+        "id": 12,
+        "image": "https://example.com/images/player12.jpg",
+        "playerName": "Jasprit Bumrah",
+        "country": "India",
+        "countryFlag": "https://example.com/flags/india.png",
+        "position": "Bowler",
+        "rating": 9.4,
+        "battingSide": "Right Hand",
+        "price": "$1.1M"
+    }
+]

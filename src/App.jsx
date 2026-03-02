@@ -1,12 +1,11 @@
 import './App.css'
+import TopBannar from './Components/TopBannar/TopBannar'
 
 function App() {
 
-
   return (
     <>
-
-      <h1>I am here</h1>
+      <TopBannar></TopBannar>
 
     </>
   )
