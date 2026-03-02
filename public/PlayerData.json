@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "https://example.com/images/player1.jpg",
+        "image": "https://i.ibb.co.com/4Z16NjL7/player-6.jpg",
         "playerName": "Virat Kohli",
         "country": "India",
         "countryFlag": "https://example.com/flags/india.png",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "image": "https://example.com/images/player2.jpg",
+        "image": "https://i.ibb.co.com/XZdz14pd/player-1.jpg",
         "playerName": "Babar Azam",
         "country": "Pakistan",
         "countryFlag": "https://example.com/flags/pakistan.png",
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "image": "https://example.com/images/player3.jpg",
+        "image": "https://i.ibb.co.com/pvvydLc4/player-7.jpg",
         "playerName": "Joe Root",
         "country": "England",
         "countryFlag": "https://example.com/flags/england.png",
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "image": "https://example.com/images/player4.jpg",
+        "image": "https://i.ibb.co.com/wZm5pB8c/player-8.jpg",
         "playerName": "Kane Williamson",
         "country": "New Zealand",
         "countryFlag": "https://example.com/flags/newzealand.png",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "image": "https://example.com/images/player5.jpg",
+        "image": "https://i.ibb.co.com/4Z16NjL7/player-6.jpg",
         "playerName": "Steve Smith",
         "country": "Australia",
         "countryFlag": "https://example.com/flags/australia.png",
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "image": "https://example.com/images/player6.jpg",
+        "image": "https://i.ibb.co.com/4Z16NjL7/player-6.jpg",
         "playerName": "Shakib Al Hasan",
         "country": "Bangladesh",
         "countryFlag": "https://example.com/flags/bangladesh.png",
@@ -67,7 +67,7 @@
     },
     {
         "id": 7,
-        "image": "https://example.com/images/player7.jpg",
+        "image": "https://i.ibb.co.com/4Z16NjL7/player-6.jpg",
         "playerName": "Ben Stokes",
         "country": "England",
         "countryFlag": "https://example.com/flags/england.png",
@@ -78,7 +78,7 @@
     },
     {
         "id": 8,
-        "image": "https://example.com/images/player8.jpg",
+        "image": "https://i.ibb.co.com/wZm5pB8c/player-8.jpg",
         "playerName": "David Warner",
         "country": "Australia",
         "countryFlag": "https://example.com/flags/australia.png",
@@ -89,7 +89,7 @@
     },
     {
         "id": 9,
-        "image": "https://example.com/images/player9.jpg",
+        "image": "https://i.ibb.co.com/wZm5pB8c/player-8.jpg",
         "playerName": "Rohit Sharma",
         "country": "India",
         "countryFlag": "https://example.com/flags/india.png",
@@ -100,7 +100,7 @@
     },
     {
         "id": 10,
-        "image": "https://example.com/images/player10.jpg",
+        "image": "https://i.ibb.co.com/bj1Px6hY/player-10.jpg",
         "playerName": "Jos Buttler",
         "country": "England",
         "countryFlag": "https://example.com/flags/england.png",
@@ -111,7 +111,7 @@
     },
     {
         "id": 11,
-        "image": "https://example.com/images/player11.jpg",
+        "image": "https://i.ibb.co.com/wZm5pB8c/player-8.jpg",
         "playerName": "Trent Boult",
         "country": "New Zealand",
         "countryFlag": "https://example.com/flags/newzealand.png",
@@ -122,7 +122,7 @@
     },
     {
         "id": 12,
-        "image": "https://example.com/images/player12.jpg",
+        "image": "https://i.ibb.co.com/bj1Px6hY/player-10.jpg",
         "playerName": "Jasprit Bumrah",
         "country": "India",
         "countryFlag": "https://example.com/flags/india.png",

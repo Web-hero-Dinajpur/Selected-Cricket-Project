@@ -7,7 +7,7 @@ const TopBannar = () => {
         <div className='w-[1280px] mx-auto'>
             <Navbar></Navbar>
             <img className='' src={moduleName} alt="" />
-            <img className='mx-auto -mt-100' src={Bannar} alt="" />
+            <img className='mx-auto -mt-110' src={Bannar} alt="" />
             <div className='w-full mx-auto text-center font-bold mt-6'>
                 <h2 className='text-3xl'>Assemble Your Ultimate Dream 11 Cricket Team</h2>
                 <p className='text-xl my-4'>Beyond Boundaries Beyond Limits</p>
