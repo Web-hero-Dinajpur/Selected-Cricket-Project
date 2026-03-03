@@ -8,7 +8,7 @@
         "position": "Top Order Batsman",
         "rating": 9.8,
         "battingSide": "Right Hand",
-        "price": "$1.2M"
+        "price": "200000"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "position": "Top Order Batsman",
         "rating": 9.7,
         "battingSide": "Right Hand",
-        "price": "$1.1M"
+        "price": "3000980"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "position": "Middle Order Batsman",
         "rating": 9.5,
         "battingSide": "Right Hand",
-        "price": "$1.0M"
+        "price": "300000"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "position": "Top Order Batsman",
         "rating": 9.6,
         "battingSide": "Right Hand",
-        "price": "$1.05M"
+        "price": "8909000"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "position": "Top Order Batsman",
         "rating": 9.4,
         "battingSide": "Right Hand",
-        "price": "$1.15M"
+        "price": "900000"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "position": "All-Rounder",
         "rating": 9.3,
         "battingSide": "Left Hand",
-        "price": "$950K"
+        "price": "1000000"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "position": "All-Rounder",
         "rating": 9.2,
         "battingSide": "Left Hand",
-        "price": "$1.08M"
+        "price": "3100000"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "position": "Opening Batsman",
         "rating": 9.1,
         "battingSide": "Left Hand",
-        "price": "$1.0M"
+        "price": "350000"
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "position": "Opening Batsman",
         "rating": 9.6,
         "battingSide": "Right Hand",
-        "price": "$1.2M"
+        "price": "340000"
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@
         "position": "Wicket Keeper Batsman",
         "rating": 9.0,
         "battingSide": "Right Hand",
-        "price": "$980K"
+        "price": "30000"
     },
     {
         "id": 11,
@@ -118,7 +118,7 @@
         "position": "Bowler",
         "rating": 8.9,
         "battingSide": "Right Hand",
-        "price": "$870K"
+        "price": "98000"
     },
     {
         "id": 12,
@@ -129,6 +129,6 @@
         "position": "Bowler",
         "rating": 9.4,
         "battingSide": "Right Hand",
-        "price": "$1.1M"
+        "price": "230009"
     }
 ]
